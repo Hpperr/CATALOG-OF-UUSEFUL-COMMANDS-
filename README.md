@@ -1,6 +1,6 @@
 # Catalog of Useful Commands
 
-**Cross-Platform Command Reference - Linux | Windows | PowerShell | GUI Search**
+**Cross-Platform Command Reference - Linux | Windows CMD | PowerShell | GUI Search**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
@@ -21,39 +21,35 @@ A comprehensive catalog of useful commands for system administration, file opera
 
 ## Contents
 
-| Section | Description |
-|---------|-------------|
-| 1 | Linux Commands (Bash/Zsh) |
-| 2 | Windows CMD Commands |
-| 3 | PowerShell Commands |
-| 4 | Windows Explorer Search Syntax |
-| 5 | Cross-Platform Utilities |
-| 6 | Advanced Filters & Search |
-| 7 | System Information |
-| 8 | Network Commands |
-| 9 | File Operations |
-| 10 | Process Management |
-| 11 | User Management |
-| 12 | Disk & Storage |
-| 13 | Date & Time |
-| 14 | Text Processing |
-| 15 | Compression & Archiving |
-| 16 | Package Management |
-| 17 | Environment Variables |
-| 18 | System Monitoring |
-| 19 | Remote Connections |
-| 20 | System Recovery |
+| Section | Description | Commands |
+|---------|-------------|----------|
+| 1 | Linux Commands (Bash/Zsh) | 150+ |
+| 2 | Windows CMD Commands | 100+ |
+| 3 | PowerShell Commands | 80+ |
+| 4 | CMD Advanced | 60+ |
+| 5 | Windows Explorer Search | 40+ |
+| 6 | Cross-Platform Utilities | 20+ |
+| 7 | System Information | 30+ |
+| 8 | Network Commands | 50+ |
+| 9 | File Operations | 40+ |
+| 10 | Process Management | 30+ |
+| 11 | User Management | 30+ |
+| 12 | Disk & Storage | 30+ |
+| 13 | Date & Time | 20+ |
+| 14 | Text Processing | 30+ |
+| 15 | Compression & Archiving | 30+ |
+| 16 | Package Management | 30+ |
+| 17 | Environment Variables | 20+ |
+| 18 | System Monitoring | 30+ |
+| 19 | Remote Connections | 30+ |
+| 20 | System Recovery | 20+ |
+| 21 | CMD Shortcuts & Tips | 50+ |
+| 22 | Registry Commands | 20+ |
+| 23 | WMI Commands | 30+ |
+| 24 | Security Commands | 20+ |
+| 25 | System Utilities | 30+ |
+| 26 | Troubleshooting | 30+ |
+| 27 | Quick Reference | 60+ |
+| **Total** | **33 Categories** | **~1000+ Commands** |
 
 ---
-
-## Usage
-
-```bash
-# Linux/macOS
-cat catalog_commands.md
-less catalog_commands.md
-grep "find" catalog_commands.md
-
-# Windows
-type catalog_commands.md
-notepad catalog_commands.md
