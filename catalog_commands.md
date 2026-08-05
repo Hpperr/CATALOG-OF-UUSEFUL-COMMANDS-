@@ -1,7 +1,6 @@
 # ═══════════════════════════════════════════════════════════════
 #  C A T A L O G   O F   U S E F U L   C O M M A N D S
 # ═══════════════════════════════════════════════════════════════
-#  Version: 1.0.0
 #  Author: F1REW0LF
 #  License: MIT - Free for Community
 #  Platform: Linux | Windows CMD | PowerShell | GUI Search
