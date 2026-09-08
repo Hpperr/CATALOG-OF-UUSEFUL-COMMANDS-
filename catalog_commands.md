@@ -8,7 +8,6 @@
 #  Platform: Linux | Windows CMD | PowerShell | GUI Search
 #  ═══════════════════════════════════════════════════════════════════
 #
-#  📚 COMPLETE CATALOG STRUCTURE:
 #  ──────────────────────────────────────────────────────────────────
 #  1.   Linux Commands (Bash/Zsh)
 #  2.   Windows CMD Commands
@@ -4413,7 +4412,6 @@
 # legitimate system administration and use.
 #
 # 📝 HOW TO USE:
-# 1. Search for the command you need using Ctrl+F
 # 2. Copy and paste into your terminal
 # 3. Adjust parameters as needed
 # 4. For Windows, use CMD or PowerShell as indicated
@@ -4422,10 +4420,8 @@
 # - Over 1,500+ commands
 # - 35+ categories
 # - 10+ platforms covered
-# - Real-world battle-tested commands
 #
 # 🔧 TIPS:
-# - Use Ctrl+F to find commands quickly
 # - Bookmark this file for easy access
 # - Practice commands in a test environment first
 # - Always backup before running destructive commands
